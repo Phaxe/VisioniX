@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "work": "Our Work",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "AI-Powered Advertising",
+    "title": {
+      "line1": "Create Amazing",
+      "line2": "Interactive Ads"
+    },
+    "subtitle": "Transform your brand with AI-powered interactive advertisements that engage, convert, and captivate your audience like never before.",
+    "cta": {
+      "primary": "Get Started",
+      "secondary": "Watch Demo"
+    },
+    "features": {
+      "ai": "AI-Powered",
+      "creative": "Creative Solutions",
+      "fast": "Lightning Fast"
+    }
+  },
+  "about": {
+    "title": "Why Choose VisionX?",
+    "subtitle": "We use cutting-edge AI technology to create fun, interactive advertisements that help companies connect with their audience in meaningful ways.",
+    "features": {
+      "ai": {
+        "title": "AI Technology",
+        "description": "Advanced machine learning algorithms create personalized ad experiences that adapt to user behavior and preferences."
+      },
+      "targeting": {
+        "title": "Smart Targeting",
+        "description": "Reach the right audience at the right time with precision targeting based on demographics, interests, and behavior."
+      },
+      "speed": {
+        "title": "Fast Delivery",
+        "description": "From concept to campaign launch in record time with our streamlined production process and automated workflows."
+      },
+      "engagement": {
+        "title": "High Engagement",
+        "description": "Interactive elements and gamification features that boost user engagement and drive higher conversion rates."
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Advertising?",
+      "description": "Join hundreds of companies already using VisionX to create amazing ad campaigns that deliver real results."
+    },
+    "stats": {
+      "campaigns": "Successful Campaigns",
+      "satisfaction": "Client Satisfaction",
+      "support": "Support Available"
+    }
+  },
+  "work": {
+    "title": "Our Latest Work",
+    "subtitle": "Discover how we've helped brands create engaging, interactive advertising campaigns that drive real results and meaningful connections.",
+    "projects": {
+      "ecommerce": {
+        "title": "E-commerce Revolution",
+        "description": "Interactive product showcase with AR try-on features that increased conversions by 150% and reduced return rates significantly.",
+        "category": "E-commerce"
+      },
+      "restaurant": {
+        "title": "Restaurant Chain Campaign",
+        "description": "Location-based interactive ads with menu personalization that boosted foot traffic by 200% across all locations.",
+        "category": "Food & Beverage"
+      },
+      "tech": {
+        "title": "Tech Startup Launch",
+        "description": "Gamified ad experience with interactive demos that generated 50K+ qualified leads in the first month of launch.",
+        "category": "Technology"
+      }
+    },
+    "watchVideo": "Watch Video",
+    "viewProject": "View Project",
+    "viewAll": "View All Projects"
+  },
+  "contact": {
+    "title": "Let's Create Something Amazing",
+    "subtitle": "Ready to revolutionize your advertising? Get in touch with our team and let's discuss your next campaign that will captivate your audience.",
+    "info": {
+      "title": "Get in Touch",
+      "email": {
+        "title": "Email Us"
+      },
+      "phone": {
+        "title": "Call Us"
+      },
+      "address": {
+        "title": "Visit Us",
+        "value": "123 Innovation Street, Tech City, TC 12345"
+      }
+    },
+    "response": {
+      "title": "Quick Response",
+      "description": "We typically respond to all inquiries within 24 hours during business days. Your project is our priority."
+    },
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company Name",
+      "message": "Tell us about your project",
+      "submit": "Send Message"
+    },
+    "popup": {
+      "title": "Thank You!",
+      "message": "We will contact you as soon as possible to discuss your project and how we can help bring your vision to life.",
+      "close": "Close"
+    }
+  },
+  "footer": {
+    "description": "Creating the future of interactive advertising with AI-powered solutions that engage, convert, and inspire meaningful connections between brands and their audiences.",
+    "quickLinks": {
+      "title": "Quick Links"
+    },
+    "contact": {
+      "title": "Contact Info"
+    },
+    "madeWith": "Made with",
+    "byTeam": "by VisionX Team",
+    "copyright": "© {year} VisionX. All rights reserved."
+  }
+}
